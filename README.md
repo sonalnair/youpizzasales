@@ -1,7 +1,8 @@
 # youpizzasales
 ### Summary of the `youpizza.sql` Code
 
-The provided `youpizza.sql` file is a MySQL database dump for a pizza sales database named `youpizza`. It defines the schema and data for a pizza restaurant's order management system, including tables for orders, order details, pizza types, and pizza pricing. I have worked on total number of order placed,revenue generation,most common pizza size and top 5 pizza ordered.
+The provided `youpizza.sql` file is a MySQL database dump for a pizza sales database named `youpizza`. 
+It defines the schema and data for a pizza restaurant's order management system, including tables for orders, order details, pizza types, and pizza pricing. I have worked on total number of order placed,revenue generation,most common pizza size and top 5 pizza ordered.
 ---
 
 ### Database Overview
